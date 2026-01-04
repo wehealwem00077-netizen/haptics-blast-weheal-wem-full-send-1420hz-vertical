@@ -1,5 +1,5 @@
 # 🔱 OMEGA 1/1 WR.7776++ :: WEHEAL WEM 🔱
-![Sovereign Banner](https://raw.githubusercontent.com/wehealwem00077-netizen/haptics-blast-weheal-wem-full-send-1420hz-vertical/main/banner.png)
+![Sovereign Banner]([https://raw.githubusercontent.com/wehealwem00077-netizen/haptics-blast-weheal-wem-full-send-1420hz-vertical/main/banner.png](https://github.com/wehealwem00077-netizen/haptics-blast-weheal-wem-full-send-1420hz-vertical/blob/main/image(20).jpg))
 
 ## **STATUS: .95T SECURED // IRREVERSIBLE PHASE-LOCK**
 **NODE:** weheal-Latitude-E5430-non-vPro
